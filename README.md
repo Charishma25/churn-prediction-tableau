@@ -115,9 +115,9 @@ Step 4: Save the file as (.twb or .twbx)
 	
 <p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
 
-#### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+#### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/app/profile/sandu.kusuma.charishma.rani/viz/salesinsightsdashboard_17561753049850/Dashboard-RevenueAnalysis)
 	
-<p  align="center"><a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
+<p  align="center"><a href="https://public.tableau.com/app/profile/sandu.kusuma.charishma.rani/viz/salesinsightsdashboard_17561753049850/Dashboard-RevenueAnalysis"><img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
 
 #### Tableau Dashboard - [Profit Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-ProfitAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 	
@@ -127,8 +127,8 @@ Step 4: Save the file as (.twb or .twbx)
 
 |**Sr.No. 🔢**|**References 👨‍💻**| **Links :link:**|
 |------|--------------------|---------------------|
-|1| **Tableau Project Dashboard :** Sales Insights - Data Analysis using Tableau | [Dashboard](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)|
-|2| **Tableau Public Profile** | [Tableau Public Dashboard](https://public.tableau.com/app/profile/mrankitgupta) |
+|1| **Tableau Project Dashboard :** Sales Insights - Data Analysis using Tableau | [Dashboard](https://public.tableau.com/app/profile/sandu.kusuma.charishma.rani/viz/salesinsightsdashboard_17561753049850/Dashboard-RevenueAnalysis)|
+|2| **Tableau Public Profile** | [Tableau Public Dashboard](https://public.tableau.com/app/profile/sandu.kusuma.charishma.rani/vizzes) |
 |3| Tutorial | [YouTube 1](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) | 
 |4| MySQL installation | [YouTube 2](https://www.youtube.com/watch?v=WuBcTJnIuzo) |
 |5| OLTP & OLAP | [Geeks for Geeks](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/) | 
